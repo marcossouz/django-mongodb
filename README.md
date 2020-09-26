@@ -1,2 +1,6 @@
 # django-mongodb
-Tutorial DRF + Mongo
+
+CRUD
+
+- mongodb
+- django rest framework
