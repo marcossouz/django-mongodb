@@ -33,3 +33,9 @@ CRUD
 |DELETE	    |/api/tutorials/:id	|delete a Tutorial by :id   |
 |DELETE	    |/api/tutorials	    |delete all Tutorials       |
 |GET	    |/api/tutorials?title=[keyword] |	find all Tutorials which title contains keyword|
+
+
+https://bezkoder.com/django-mongodb-crud-rest-framework/
+https://bezkoder.com/vue-js-crud-app/
+
+for more: https://bezkoder.com/
