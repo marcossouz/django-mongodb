@@ -1,10 +1,11 @@
-# django-mongodb
+# MongoDB + Django Rest Framework CRUD Rest API example
 
-CRUD
+In this tutorial, we’re gonna create Python 3/Django & MongoDB CRUD example with Django Rest Framework for building Rest Apis. You’ll know:
 
-- mongodb
-- django rest framework
-- Vue
+- How to setup Django to connect with MongoDB Database
+- How to define Data Models and migrate it to MongoDB
+- Way to use Django Rest Framework to process HTTP requests
+- Way to make Django CRUD Operations with MongoDB Database
 
 #### get started
 
